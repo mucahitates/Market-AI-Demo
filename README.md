@@ -62,14 +62,15 @@ pip install streamlit yfinance altair matplotlib pandas
 streamlit run app.py
 
 ---
-##Proje Amacı
+##  Proje Amacı
 
 Bu proje, veri bilimi ve finans teknolojilerine ilgi duyan bir Junior Python Developer olarak yeteneklerimi sergilemek, 
 gerçek dünya verileriyle çalışan analiz sistemleri geliştirme becerimi göstermek ve teknik portföyümü güçlendirmek amacıyla hazırlanmıştır.
 
-##Yasal Uyarı
+##  Yasal Uyarı
 
 Bu uygulama yalnızca eğitim ve analiz amaçlıdır. Herhangi bir yatırım tavsiyesi niteliği taşımaz.
 
 ---
+
 
