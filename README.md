@@ -11,7 +11,7 @@ Bu proje, Python ve modern veri görselleştirme araçları kullanılarak işlev
 - Gerçek piyasa verisi entegrasyonu (Yahoo Finance)
 - Kripto ve BIST hisse analizi
 - Etkileşimli fiyat grafikleri (hover destekli)
-- Yapay zeka destekli piyasa yorumu
+- Kural tabnalı analiz motoru
 - Yüzdelik değişim, trend ve volatilite analizi
 - Hareketli ortalama hesaplaması
 - TR formatında tarih seçimi
@@ -72,5 +72,6 @@ gerçek dünya verileriyle çalışan analiz sistemleri geliştirme becerimi gö
 Bu uygulama yalnızca eğitim ve analiz amaçlıdır. Herhangi bir yatırım tavsiyesi niteliği taşımaz.
 
 ---
+
 
 
